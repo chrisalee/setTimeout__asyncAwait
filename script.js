@@ -1,4 +1,4 @@
-const users = ['clee@yahoo.com', 'clee222@gmail.com', 'a@a.com', 'b@b.com', 'chris@lee.com'];
+const users = ['ce@yahoo.com', 'ee222@gmail.com', 'a@a.com', 'b@b.com', 'chris@e.com'];
 
 function delay (user){
   return new Promise(resolve => {
